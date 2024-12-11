@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 👋 Hi there! I'm a 17-year-old student from Rheinland-Pfalz, Germany, currently in 12th grade.
+- 💻 Passionate about computer science and electrical engineering.
+- 🔧 Exploring CPU design from scratch and working on software simulations.
+- 🎓 Aspiring to deepen my knowledge in tech and engineering, possibly at university.
+- 🌟 Always eager to learn and build interesting projects.
+- ⚡ Fun fact: Tramsgender :3
+
 <!--
 **Arafloh/Arafloh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
